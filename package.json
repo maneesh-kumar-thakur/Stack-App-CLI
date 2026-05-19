@@ -48,14 +48,14 @@
   ],
   "author": "Maneesh Thakur",
   "license": "MIT",
-  "homepage": "https://github.com/Maneesh-Relanto/create-stack-app#readme",
+  "homepage": "https://github.com/maneesh-kumar-thakur/create-stack-app#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Maneesh-Relanto/create-stack-app.git",
+    "url": "https://github.com/maneesh-kumar-thakur/create-stack-app.git",
     "directory": "."
   },
   "bugs": {
-    "url": "https://github.com/Maneesh-Relanto/create-stack-app/issues"
+    "url": "https://github.com/maneesh-kumar-thakur/create-stack-app/issues"
   },
   "dependencies": {
     "chalk": "^5.3.0",
