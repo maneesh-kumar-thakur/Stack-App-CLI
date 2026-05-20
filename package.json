@@ -1,6 +1,6 @@
 {
   "name": "stack-app-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A modern CLI tool to generate production-ready boilerplates across multiple programming languages and frameworks",
   "main": "src/index.js",
   "bin": {
@@ -48,14 +48,14 @@
   ],
   "author": "Maneesh Thakur",
   "license": "MIT",
-  "homepage": "https://github.com/maneesh-kumar-thakur/create-stack-app#readme",
+  "homepage": "https://github.com/maneesh-kumar-thakur/Stack-App-CLI#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/maneesh-kumar-thakur/create-stack-app.git",
+    "url": "https://github.com/maneesh-kumar-thakur/Stack-App-CLI.git",
     "directory": "."
   },
   "bugs": {
-    "url": "https://github.com/maneesh-kumar-thakur/create-stack-app/issues"
+    "url": "https://github.com/maneesh-kumar-thakur/Stack-App-CLI/issues"
   },
   "dependencies": {
     "chalk": "^5.3.0",
