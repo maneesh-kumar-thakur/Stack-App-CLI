@@ -11,7 +11,7 @@
 [![Templates](https://img.shields.io/badge/templates-15%20supported-blue)]()
 [![Languages](https://img.shields.io/badge/languages-6%20supported-blue)]()
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](http://makeapullrequest.com)
-[![GitHub](https://img.shields.io/badge/github-Maneesh--Relanto-blue)](https://github.com/Maneesh-Relanto/create-stack-app)
+[![GitHub](https://img.shields.io/badge/github-Maneesh--Relanto-blue)](https://github.com/maneesh-kumar-thakur/create-stack-app)
 
 ## ✨ Features
 
